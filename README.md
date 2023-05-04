@@ -1,2 +1,2 @@
 # portfolio-udemy
-my process in we dev
+My process in web dev
